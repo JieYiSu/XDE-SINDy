@@ -1,0 +1,3 @@
+# CUDA 12 runtime used by the optional XDE-SINDy CuPy backend.
+# The ctk extra installs cuBLAS, cuSOLVER, NVRTC, and the remaining runtime DLLs.
+cupy-cuda12x[ctk]==14.2.0

@@ -1,0 +1,2 @@
+# Optional EvoX workflow integration.
+evox>=1.4.0
