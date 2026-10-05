@@ -122,3 +122,7 @@ The source release contains the complete XDE-SINDy algorithm and the engineering
 ## Citation
 
 If you use this implementation, cite the accompanying manuscript and identify the release commit.  The paper's complete reference list is maintained in its separate `references.bib` file.
+
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
