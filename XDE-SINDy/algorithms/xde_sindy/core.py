@@ -1,5 +1,4 @@
-"""XDE-SINDy: interpretable surrogate-assisted differential evolution
-for expensive single-objective problems.
+"""Interpretable Surrogate-Assisted Differential Evolution for Expensive Optimization
 
 Design principles
 -----------------
